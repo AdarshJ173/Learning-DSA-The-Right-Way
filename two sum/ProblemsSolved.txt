@@ -1,0 +1,10 @@
+1. Two Sum :
+https://leetcode.com/problems/two-sum/submissions/1881687460/
+
+2. contains Duplicate:
+https://leetcode.com/problems/contains-duplicate/submissions/1881700887/
+https://leetcode.com/problems/contains-duplicate/submissions/1881705877/
+
+
+3.167. Two Sum II - Input Array Is Sorted :
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1881716898/
